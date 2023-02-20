@@ -1,0 +1,24 @@
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.exe
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.deps.json
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.runtimeconfig.json
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.runtimeconfig.dev.json
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.dll
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.pdb
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.csprojAssemblyReference.cache
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.AssemblyInfoInputs.cache
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.AssemblyInfo.cs
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.dll
+D:\C# Projects by MJas\xxsadasdasdxasxas\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.pdb
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.exe
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.deps.json
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.runtimeconfig.json
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.runtimeconfig.dev.json
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.dll
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\bin\Debug\netcoreapp3.1\xxsadasdasdxasxas.pdb
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.csprojAssemblyReference.cache
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.csproj.CoreCompileInputs.cache
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.AssemblyInfoInputs.cache
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.AssemblyInfo.cs
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.dll
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.pdb
+C:\Users\dzony\Desktop\doWyslania\AI DO ODDANIA Michal Jasiczek 56\Gra minimax Michał Jasiczek\xxsadasdasdxasxas\obj\Debug\netcoreapp3.1\xxsadasdasdxasxas.genruntimeconfig.cache
